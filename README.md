@@ -1,2 +1,6 @@
 # coding-life
-Learning programming language
+Hi! Everyone:
+
+I'm Shally. I like Javascript, R language and Python.
+
+
